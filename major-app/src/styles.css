@@ -1,4 +1,4 @@
-
+﻿
 /* ===== ROUTE ANIMATIONS ===== */
 .route-animate {
   animation: routeFadeIn 0.3s ease;
@@ -761,9 +761,6 @@ input[type="file"].form-control:hover {
     padding: 16px;
   }
 }
-    padding: 10px;
-  }
-}
 
 
 /* ========================================
@@ -1104,7 +1101,7 @@ input[type="file"].form-control:hover {
   color: #66bb6a;
 }
 
-/* ── Universal Page Banner (used across all user pages) ── */
+/* -- Universal Page Banner (used across all user pages) -- */
 .page-banner {
   background: linear-gradient(135deg, #2e7d32 0%, #1b5e20 100%);
   padding: 60px 20px;
@@ -1255,7 +1252,7 @@ input[type="file"].form-control:hover {
 
 
 
-/* ── Skeleton Loading ── */
+/* -- Skeleton Loading -- */
 @keyframes shimmer {
   0%   { background-position: -600px 0; }
   100% { background-position: 600px 0; }
